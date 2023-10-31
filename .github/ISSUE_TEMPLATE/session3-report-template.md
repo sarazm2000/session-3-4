@@ -7,13 +7,13 @@ assignees: amirhossein1376
 
 ---
 
-Team Name: `[FILL HERE]`
+Team Name: `98170849-98109729`
 
-Student Name of member 1: `[FILL HERE]`
-Student No. of member 1: `[FILL HERE]`
+Student Name of member 1: `Sara Zahedi`
+Student No. of member 1: `Paniz Halvachi`
 
-Student Name of member 2: `[FILL HERE]`
-Student No. of member 2: `[FILL HERE]`
+Student Name of member 2: `98170849`
+Student No. of member 2: `98109729`
 
 - [ ] Read Session Contents.
 
